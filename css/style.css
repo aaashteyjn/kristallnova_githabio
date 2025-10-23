@@ -413,11 +413,11 @@ body {
 }
 
 .item-c {
-  background-image: url(./img/3.jpg);
+  background-image: url(../img/3.jpg);
 }
 
 .item-d{
-  background-image: url(./img/4.jpg);
+  background-image: url(../img/4.jpg);
 }
 
 .cover h1 {
@@ -677,4 +677,5 @@ background-position: 0 -102%;
 .footer-list a:hover {
   color: rgba(255,255,255,0.5);
 }
+
 
